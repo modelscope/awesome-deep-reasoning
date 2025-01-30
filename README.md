@@ -54,6 +54,10 @@ Qwen series:
   - Use OpenRLHF to reproduce R1
 - Ragen: https://github.com/ZihanWang314/RAGEN
   - A General-Purpose Reasoning Agent Training Framework and reproduce R1
+- TRL: https://github.com/huggingface/trl
+  - Hugging Face official training framework which supports open-source GRPO and other RL algorithms.
+- OpenRLHF: https://github.com/OpenRLHF/OpenRLHF
+  - An RL repo which supports RLs(supports REINFORCE++)
 
 ## Datasets
 
