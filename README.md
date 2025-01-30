@@ -1,7 +1,8 @@
-# awesome-r1
-Collect every awesome work about r1!
+# Awesome-R1
+Collect every awesome work about R1!
 
-## Contents
+
+## Table of Contents
 - [Papers](#papers)
 - [Models](#models)
 - [Datasets](#datasets)
