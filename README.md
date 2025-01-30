@@ -11,6 +11,8 @@ Collect every awesome work about r1!
 
 
 ## Papers
+* [DeepSeek-R1-Tech-Report](https://www.modelscope.cn/papers/109508) - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+* [DeepSeek-V3 Technical Report](https://www.modelscope.cn/papers/104004)
 
 
 ## Models
