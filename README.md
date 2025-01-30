@@ -1,4 +1,4 @@
-# Awesome-reasoning
+# Awesome-deep-reasoning
 Collect every awesome work about O1/R1!
 
 
