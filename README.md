@@ -1,5 +1,5 @@
-# Awesome-R1
-Collect every awesome work about R1!
+# Awesome-reasoning
+Collect every awesome work about O1/R1!
 
 
 ## Table of Contents
@@ -13,23 +13,38 @@ Collect every awesome work about R1!
 
 ## Repos
 
+### DeepSeek repos:
+
 [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - DeepSeek-R1 official repository.
+
+### Qwen repos:
+
+[Qwen-repos](https://github.com/QwenLM) -Qwen official github group.
 
 
 ## Papers
 
 * [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
 * [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
+* [Qwen-math-PRM-Tech-Report(MCTS/PRM)](https://arxiv.org/pdf/2501.07301)
 * [DeepSeek Math Technical Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 
 
 ## Models
+
+DeepSeek series:
 
 | Model ID    | ModelScope                                                             | Hugging Face                                                 |
 | ----------- |------------------------------------------------------------------------|--------------------------------------------------------------|
 | DeepSeek R1 | [Model Link](https://www.modelscope.cn/models/deepseek-ai/DeepSeek-R1) | [Model Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | DeepSeek V3 | [Model Link](https://www.modelscope.cn/models/deepseek-ai/DeepSeek-V3) | [Model Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 
+Qwen series:
+
+| Model ID    | ModelScope                                                             | Hugging Face                                                 |
+|-------------|------------------------------------------------------------------------|--------------------------------------------------------------|
+| QwQ-32B-Preview | [Model Link](https://www.modelscope.cn/models/Qwen/QwQ-32B-Preview) | [Model Link](https://huggingface.co/Qwen/QwQ-32B-Preview) |
+| QVQ-72B-Preview | [Model Link](https://www.modelscope.cn/models/deepseek-ai/QVQ-72B-Preview) | [Model Link](https://huggingface.co/Qwen/QVQ-72B-Preview) |
 
 ## Infra
 
@@ -37,7 +52,8 @@ Collect every awesome work about R1!
   - This repo is the official repo of Hugging Face to reproduce the training infra of R1
 - SimpleRL-Reason: https://github.com/hkust-nlp/simpleRL-reason
   - Use OpenRLHF to reproduce R1
-
+- Ragen: https://github.com/ZihanWang314/RAGEN
+  - A General-Purpose Reasoning Agent Training Framework and reproduce R1
 
 ## Datasets
 
