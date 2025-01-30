@@ -86,7 +86,8 @@ Qwen series:
 
 ## Datasets
 
-* [Dolphin-R1](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1) - 800k samples dataset to train DeepSeek-R1 Distill models.
+* Dolphin-R1 ([HuggingFace](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1) | [ModelScope](https://modelscope.cn/datasets/AI-ModelScope/dolphin-r1)) - 800k samples dataset to train DeepSeek-R1 Distill models.
+* R1-Distill-SFT ([HuggingFace](https://huggingface.co/datasets/ServiceNow-AI/R1-Distill-SFT) | [ModelScope](https://modelscope.cn/datasets/ServiceNow-AI/R1-Distill-SFT))
 * [NuminaMath-TIR](https://www.modelscope.cn/datasets/AI-MO/NuminaMath-TIR) - Tool-integrated reasoning (TIR) plays a crucial role in this competition.  
 * [NuminaMath-CoT](https://www.modelscope.cn/datasets/AI-MO/NuminaMath-CoT) - Approximately 860k math problems, where each solution is formatted in a Chain of Thought (CoT) manner.
 * [BAAI-TACO](https://modelscope.cn/datasets/BAAI/TACO) - TACO is a benchmark for code generation with 26443 problems. 
