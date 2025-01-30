@@ -1,6 +1,15 @@
 # awesome-r1
 Collect every awesome work about r1!
 
+## Contents
+- [Papers](#papers)
+- [Models](#models)
+- [Datasets](#datasets)
+- [Evaluation](#evaluation)
+- [Infra](#infra)
+- [Tools](#tools)
+
+
 ## Papers
 
 
@@ -18,6 +27,7 @@ Collect every awesome work about r1!
 * [AIME-VALIDATION](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-aime) - All 90 problems come from AIME 22, AIME 23, and AIME 24
 * [MATH-LEVEL-4](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-math-level-4) - A subset of level 4 problems from the MATH benchmark.
 * [MATH-LEVEL-5](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-math-level-5) - A subset of level 5 problems from the MATH benchmark.
+* [aimo-validation-amc](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-amc) - All 83 samples come from AMC12 2022, AMC12 2023
 
 
 ## Infra
