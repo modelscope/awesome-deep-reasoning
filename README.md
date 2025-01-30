@@ -27,10 +27,20 @@ Collect every awesome work about O1/R1!
 
 * [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
 * [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
+* [OpenAI-o1](https://openai.com/index/learning-to-reason-with-llms/) - Learning to Reason with Large Language Models
 * [Qwen-math-PRM-Tech-Report(MCTS/PRM)](https://arxiv.org/pdf/2501.07301)
 * [Qwen2.5 Tech-Report](https://arxiv.org/pdf/2412.15115)
 * [DeepSeek Math Tech-Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 * [Kimi K1.5 Tech-Report](https://arxiv.org/pdf/2501.12599)
+* [QwQ Blog](https://qwenlm.github.io/blog/qwq-32b-preview/) - QwQ: Reflect Deeply on the Boundaries of the Unknown
+* [Qwen-Math-PRM](https://arxiv.org/pdf/2501.07301) - The Lessons of Developing Process Reward Models in Mathematical Reasoning
+* [Large Language Models for Mathematical Reasoning: Progresses and Challenges](https://arxiv.org/abs/2402.00157) (EACL 2024)
+* [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) (ICLR 2024)
+* [AT WHICH TRAINING STAGE DOES CODE DATA HELP LLM REASONING?](https://arxiv.org/pdf/2309.16298) (ICLR 2024)
+* [DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/abs/2412.17498) [ [code](https://github.com/krystalan/DRT-o1) ]
+* [LlamaV-o1](https://arxiv.org/abs/2501.06186) - Rethinking Step-by-step Visual Reasoning in LLMs
+* [rStar-Math](https://arxiv.org/abs/2501.04519) - Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
+* [MathScale](https://arxiv.org/abs/2403.02884) - Scaling Instruction Tuning for Mathematical Reasoning
 
 
 ## Models
