@@ -13,7 +13,7 @@ Collect every awesome work about R1!
 ## Papers
 * [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
 * [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
-- [DeepSeek Math Technical Report(GRPO)](https://arxiv.org/pdf/2402.03300)
+* [DeepSeek Math Technical Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 
 ## Models
 
