@@ -3,12 +3,16 @@ Collect every awesome work about R1!
 
 
 ## Table of Contents
+- [Repos](#repos)
 - [Papers](#papers)
 - [Models](#models)
 - [Datasets](#datasets)
 - [Evaluation](#evaluation)
 - [Infra](#infra)
-- [Tools](#tools)
+
+
+## Repos
+[DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ![Stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social) - DeepSeek-R1 official repository.
 
 
 ## Papers
@@ -39,6 +43,4 @@ Collect every awesome work about R1!
 
 ## Infra
 
-
-## Tools
 
