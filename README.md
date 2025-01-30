@@ -25,9 +25,10 @@ Collect every awesome work about O1/R1!
 ## Papers
 
 * [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
-* [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
+* [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
 * [Qwen-math-PRM-Tech-Report(MCTS/PRM)](https://arxiv.org/pdf/2501.07301)
-* [DeepSeek Math Technical Report(GRPO)](https://arxiv.org/pdf/2402.03300)
+* [DeepSeek Math Tech-Report(GRPO)](https://arxiv.org/pdf/2402.03300)
+* [Kimi K1.5 Tech-Report](https://arxiv.org/pdf/2501.12599)
 
 
 ## Models
@@ -58,6 +59,8 @@ Qwen series:
   - Hugging Face official training framework which supports open-source GRPO and other RL algorithms.
 - OpenRLHF: https://github.com/OpenRLHF/OpenRLHF
   - An RL repo which supports RLs(supports REINFORCE++)
+- TinyZero: https://github.com/Jiayi-Pan/TinyZero
+  - A tiny reproduction of R1
 
 ## Datasets
 
