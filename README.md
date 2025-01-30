@@ -11,12 +11,9 @@ Collect every awesome work about R1!
 
 
 ## Papers
-* [DeepSeek-R1-Tech-Report](https://www.modelscope.cn/papers/109508) - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
-* [DeepSeek-V3 Technical Report](https://www.modelscope.cn/papers/104004)
-
-- DeepSeek R1(Official paper): https://arxiv.org/pdf/2501.12948
-- DeepSeek V3(PreTrain): https://arxiv.org/pdf/2412.19437
-- DeepSeek Math(GRPO): https://arxiv.org/pdf/2402.03300
+* [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
+* [DeepSeek-V3 Technical Report](https://arxiv.org/pdf/2412.19437)
+- [DeepSeek Math Technical Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 
 ## Models
 
