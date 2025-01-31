@@ -13,9 +13,9 @@ def render_readme():
 def create_gradio_interface():
     readme_content = render_readme()
     with gr.Blocks() as demo:
-        gr.HTML(f"<h1><center>🍺Star us pls if you like "
-                f"<a href=\"https://github.com/modelscope-lab/awesome-reasoning\" target=\"_blank\">"
-                f"🤪our collection🤪</a>~</center></h1>")
+        gr.HTML(f"<h1><center>🍺 If you find it helpful, please Star ✨  "
+                f"<a href=\"https://github.com/modelscope/awesome-deep-reasoning\" target=\"_blank\">"
+                f"🤪 Our Collection 🤪</a>~</center></h1>")
         gr.Markdown(readme_content)
     return demo
 

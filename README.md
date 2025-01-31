@@ -1,5 +1,5 @@
 # Awesome-deep-reasoning
-Collect every awesome work about O1/R1!
+Collect the awesome works evolved around reasoning models like O1/R1! You can also find the collection [here](https://www.modelscope.cn/collections/R1-gongzuoheji-3cfe79822e894a).
 
 
 ## Table of Contents
@@ -20,19 +20,20 @@ Collect every awesome work about O1/R1!
 
 ### Qwen repos:
 
-[Qwen-repos](https://github.com/QwenLM) -Qwen official github group.
+[Qwen-QwQ](https://github.com/QwenLM/Qwen2.5) ![Stars](https://img.shields.io/github/stars//QwenLM/Qwen2.5?style=social) - Qwen 2.5 official repository, with QwQ.
+
 
 
 ## Papers
 
 * [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
 * [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
-* [OpenAI-o1](https://openai.com/index/learning-to-reason-with-llms/) - Learning to Reason with Large Language Models
+* [Qwen QwQ Technical blog](https://qwenlm.github.io/blog/qwq-32b-preview/) - QwQ: Reflect Deeply on the Boundaries of the Unknown
+* [OpenAI-o1 Announcement](https://openai.com/index/learning-to-reason-with-llms/) - Learning to Reason with Large Language Models
 * [Qwen-math-PRM-Tech-Report(MCTS/PRM)](https://arxiv.org/pdf/2501.07301)
 * [Qwen2.5 Tech-Report](https://arxiv.org/pdf/2412.15115)
 * [DeepSeek Math Tech-Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 * [Kimi K1.5 Tech-Report](https://arxiv.org/pdf/2501.12599)
-* [QwQ Blog](https://qwenlm.github.io/blog/qwq-32b-preview/) - QwQ: Reflect Deeply on the Boundaries of the Unknown
 * [Qwen-Math-PRM](https://arxiv.org/pdf/2501.07301) - The Lessons of Developing Process Reward Models in Mathematical Reasoning
 * [Large Language Models for Mathematical Reasoning: Progresses and Challenges](https://arxiv.org/abs/2402.00157) (EACL 2024)
 * [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) (ICLR 2024)
@@ -72,17 +73,17 @@ Qwen series:
 ## Infra
 
 - Open R1 by Hugging Face: https://github.com/huggingface/open-r1
-  - This repo is the official repo of Hugging Face to reproduce the training infra of R1
+  - This repo is the official repo of Hugging Face to reproduce the training infra of DeepSeek-R1
 - SimpleRL-Reason: https://github.com/hkust-nlp/simpleRL-reason
-  - Use OpenRLHF to reproduce R1
+  - Use OpenRLHF to reproduce DeepSeek-R1
 - Ragen: https://github.com/ZihanWang314/RAGEN
-  - A General-Purpose Reasoning Agent Training Framework and reproduce R1
+  - A General-Purpose Reasoning Agent Training Framework and reproduce DeepSeek-R1
 - TRL: https://github.com/huggingface/trl
   - Hugging Face official training framework which supports open-source GRPO and other RL algorithms.
 - OpenRLHF: https://github.com/OpenRLHF/OpenRLHF
   - An RL repo which supports RLs(supports REINFORCE++)
 - TinyZero: https://github.com/Jiayi-Pan/TinyZero
-  - A tiny reproduction of R1
+  - A tiny reproduction of DeepSeek-R1
 
 ## Datasets
 
@@ -108,4 +109,3 @@ Qwen series:
 
 
 ## Tools
-
