@@ -20,7 +20,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ### Qwen repos:
 
-[Qwen-QwQ](https://github.com/QwenLM/Qwen2.5) ![Stars](https://img.shields.io/github/stars//QwenLM/Qwen2.5?style=social) - Qwen 2.5 official repository, with QwQ.
+[Qwen-QwQ](https://github.com/QwenLM/Qwen2.5) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social) - Qwen 2.5 official repository, with QwQ.
 
 
 
