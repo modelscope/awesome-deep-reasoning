@@ -3,6 +3,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## Table of Contents
+- [News](#news)
 - [Repos](#repos)
 - [Papers](#papers)
 - [Models](#models)
@@ -11,6 +12,11 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 - [Evaluation](#evaluation)
 - [Tools](#tools)
 
+## News
+
+* OpenAI has launched the latest o3 model: o3-mini & o3-mini-high, which specifically support science, math and coding. These two models are available in ChatGPT App, Poe, etc.
+* Qwen has launched a powerful multi-modal MoE model: Qwen2.5-Max, this model is available in the [Bailian](https://bailian.console.aliyun.com/) platform.
+* CodeGPT: [VSCode co-pilot](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) now supports R1.
 
 ## Repos
 
@@ -42,6 +48,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [LlamaV-o1](https://arxiv.org/abs/2501.06186) - Rethinking Step-by-step Visual Reasoning in LLMs
 * [rStar-Math](https://arxiv.org/abs/2501.04519) - Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
 * [MathScale](https://arxiv.org/abs/2403.02884) - Scaling Instruction Tuning for Mathematical Reasoning
+* [LLMS CAN PLAN ONLY IF WE TELL THEM](https://arxiv.org/pdf/2501.13545) - A new CoT method: AoT+
 
 
 ## Models
