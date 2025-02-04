@@ -14,6 +14,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## News
 
+* OpenAI publishes a [deep-research](https://openai.com/index/introducing-deep-research/) capability.
 * OpenAI has launched the latest o3 model: [o3-mini & o3-mini-high](https://openai.com/index/openai-o3-mini/), which specifically support science, math and coding. These two models are available in ChatGPT App, Poe, etc.
 * NVIDIA-NIM has supported [the DeepSeek-R1 model](https://blogs.nvidia.com/blog/deepseek-r1-nim-microservice/).
 * Qwen has launched a powerful multi-modal MoE model: Qwen2.5-Max, this model is available in the [Bailian](https://bailian.console.aliyun.com/) platform.
@@ -50,6 +51,8 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [rStar-Math](https://arxiv.org/abs/2501.04519) - Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
 * [MathScale](https://arxiv.org/abs/2403.02884) - Scaling Instruction Tuning for Mathematical Reasoning
 * [LLMS CAN PLAN ONLY IF WE TELL THEM](https://arxiv.org/pdf/2501.13545) - A new CoT method: AoT+
+* [SFT Memorizes, RL Generalizes](https://arxiv.org/pdf/2501.17161) - A research from DeepMind shows the effect of SFT and RL.
+* [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/pdf/2412.12140) - A paper from Fudan university indicates that LLM has surpassed the self-replicating red line.
 
 
 ## Models
@@ -78,6 +81,11 @@ Qwen series:
 | QwQ-32B-Preview-GGUF | [Model Link](https://www.modelscope.cn/models/unsloth/QwQ-32B-Preview-GGUF) | [Model Link](https://huggingface.co/unsloth/QwQ-32B-Preview-GGUF) |
 | QVQ-72B-Preview-bnb-4bit | [Model Link](https://www.modelscope.cn/models/unsloth/QVQ-72B-Preview-bnb-4bit) | [Model Link](https://huggingface.co/unsloth/QVQ-72B-Preview-bnb-4bit) |
 
+Others:
+| Model ID    | ModelScope                                                             | Hugging Face                                                 |
+|-------------|------------------------------------------------------------------------|--------------------------------------------------------------|
+| Qwen2-VL-2B-GRPO-8k | - | [Model Link](https://huggingface.co/lmms-lab/Qwen2-VL-2B-GRPO-8k) |
+
 ## Infra
 
 - Open R1 by Hugging Face: https://github.com/huggingface/open-r1
@@ -92,6 +100,8 @@ Qwen series:
   - An RL repo which supports RLs(supports REINFORCE++)
 - TinyZero: https://github.com/Jiayi-Pan/TinyZero
   - A tiny reproduction of DeepSeek-R1
+- R1-V: https://github.com/Deep-Agent/R1-V
+  - Multi-modal R1
 
 ## Datasets
 
@@ -102,6 +112,8 @@ Qwen series:
 * [BAAI-TACO](https://modelscope.cn/datasets/BAAI/TACO) - TACO is a benchmark for code generation with 26443 problems. 
 * [OpenThoughts-114k](https://modelscope.cn/datasets/open-thoughts/OpenThoughts-114k) - Open synthetic reasoning dataset with 114k high-quality examples covering math, science, code, and puzzles!
 * [Bespoke-Stratos-17k](https://modelscope.cn/datasets/bespokelabs/Bespoke-Stratos-17k) - A reasoning dataset of questions, reasoning traces, and answers.
+* [Clevr_CoGenT_TrainA_R1](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_R1) - A multi-modal dataset for training MM R1 model.
+* [clevr_cogen_a_train](https://huggingface.co/datasets/leonardPKU/clevr_cogen_a_train) - A R1-distilled visual reasoning dataset.
 
 
 ## Evaluation
