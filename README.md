@@ -74,6 +74,8 @@ Qwen series:
 
 - Open R1 by Hugging Face: https://github.com/huggingface/open-r1
   - This repo is the official repo of Hugging Face to reproduce the training infra of DeepSeek-R1
+- TinyZero: https://github.com/Jiayi-Pan/TinyZero
+  - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - SimpleRL-Reason: https://github.com/hkust-nlp/simpleRL-reason
   - Use OpenRLHF to reproduce DeepSeek-R1
 - Ragen: https://github.com/ZihanWang314/RAGEN
