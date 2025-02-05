@@ -102,6 +102,7 @@ Others:
   - A tiny reproduction of DeepSeek-R1
 - R1-V: https://github.com/Deep-Agent/R1-V
   - Multi-modal R1
+- Logic-RL: https://github.com/Unakar/Logic-RL
 
 ## Datasets
 
