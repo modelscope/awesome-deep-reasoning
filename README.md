@@ -30,6 +30,8 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 [Qwen-QwQ](https://github.com/QwenLM/Qwen2.5) ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=social) - Qwen 2.5 official repository, with QwQ.
 
+[S1 from stanford](https://github.com/simplescaling/s1) - From Feifei Li team, a distillation and test-time compute impl which can match the performance of O1 and R1.
+
 
 
 ## Papers
