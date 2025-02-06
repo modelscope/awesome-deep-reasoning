@@ -119,6 +119,7 @@ Others:
 * [Bespoke-Stratos-17k](https://modelscope.cn/datasets/bespokelabs/Bespoke-Stratos-17k) - A reasoning dataset of questions, reasoning traces, and answers.
 * [Clevr_CoGenT_TrainA_R1](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_R1) - A multi-modal dataset for training MM R1 model.
 * [clevr_cogen_a_train](https://huggingface.co/datasets/leonardPKU/clevr_cogen_a_train) - A R1-distilled visual reasoning dataset.
+* [S1k](https://huggingface.co/datasets/simplescaling/s1K) - An R1 distillation dataset.
 
 
 ## Evaluation
