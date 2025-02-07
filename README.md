@@ -55,6 +55,8 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [LLMS CAN PLAN ONLY IF WE TELL THEM](https://arxiv.org/pdf/2501.13545) - A new CoT method: AoT+
 * [SFT Memorizes, RL Generalizes](https://arxiv.org/pdf/2501.17161) - A research from DeepMind shows the effect of SFT and RL.
 * [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/pdf/2412.12140) - A paper from Fudan university indicates that LLM has surpassed the self-replicating red line.
+* [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
+
 
 
 ## Models
