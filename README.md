@@ -105,8 +105,6 @@ Others:
   - Hugging Face official training framework which supports open-source GRPO and other RL algorithms.
 - OpenRLHF: https://github.com/OpenRLHF/OpenRLHF
   - An RL repo which supports RLs(supports REINFORCE++)
-- TinyZero: https://github.com/Jiayi-Pan/TinyZero
-  - A tiny reproduction of DeepSeek-R1
 - R1-V: https://github.com/Deep-Agent/R1-V
   - Multi-modal R1
 - Logic-RL: https://github.com/Unakar/Logic-RL
