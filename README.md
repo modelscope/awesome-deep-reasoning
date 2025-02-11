@@ -4,7 +4,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## Table of Contents
 - [News](#news)
-- [Repos](#repos)
+- [Highlights](#highlights)
 - [Papers](#papers)
 - [Models](#models)
 - [Infra](#infra)
@@ -20,7 +20,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * Qwen has launched a powerful multi-modal MoE model: Qwen2.5-Max, this model is available in the [Bailian](https://bailian.console.aliyun.com/) platform.
 * CodeGPT: [VSCode co-pilot](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) now supports R1.
 
-## Repos
+## Highlights
 
 ### DeepSeek repos:
 
@@ -56,6 +56,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [SFT Memorizes, RL Generalizes](https://arxiv.org/pdf/2501.17161) - A research from DeepMind shows the effect of SFT and RL.
 * [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/pdf/2412.12140) - A paper from Fudan university indicates that LLM has surpassed the self-replicating red line.
 * [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
+* [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
 
 
 
