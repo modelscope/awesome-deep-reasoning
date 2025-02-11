@@ -110,6 +110,8 @@ Others:
 - R1-V: https://github.com/Deep-Agent/R1-V
   - Multi-modal R1
 - Logic-RL: https://github.com/Unakar/Logic-RL
+- Align-Anything: https://github.com/PKU-Alignment/align-anything
+  - Training All-modality Model with Feedback
 
 ## Datasets
 
