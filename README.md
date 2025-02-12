@@ -57,6 +57,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/pdf/2412.12140) - A paper from Fudan university indicates that LLM has surpassed the self-replicating red line.
 * [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
 * [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
+* [Competitive Programming with Large Reasoning Models](https://arxiv.org/html/2502.06807v1) - OpenAI: Competitive Programming with Large Reasoning Models
 
 
 
