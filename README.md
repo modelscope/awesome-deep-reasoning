@@ -58,6 +58,10 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
 * [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
 * [Competitive Programming with Large Reasoning Models](https://arxiv.org/html/2502.06807v1) - OpenAI: Competitive Programming with Large Reasoning Models
+* [Think Less, Achieve More: Cut Reasoning Costs by 50% Without Sacrificing Accuracy](https://novasky-ai.github.io/posts/reduce-overthinking/) - Sky-T1-32B-Flash, reasoning language model that significantly reduces overthinking
+* [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://www.arxiv.org/pdf/2502.08235)
+* [OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542)
+* [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
 
 
 
