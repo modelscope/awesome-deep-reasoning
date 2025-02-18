@@ -10,7 +10,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 - [Infra](#infra)
 - [Datasets](#datasets)
 - [Evaluation](#evaluation)
-- [Tools](#tools)
+- [Others](#others)
 
 ## News
 
@@ -152,4 +152,13 @@ Others:
 * [Codeforces-Python-Submissions](https://modelscope.cn/datasets/AI-ModelScope/Codeforces-Python-Submissions) - A dataset of Python submissions from Codeforces.
 
 
-## Tools
+## Others
+
+### Replicates of DeepSeek-R1 and DeepSeek-R1-Zero
+
+1. [HuggingFace Open R1](https://github.com/huggingface/open-r1)
+2. [Simple Reinforcement Learning for Reasoning](https://github.com/hkust-nlp/simpleRL-reason)
+3. [oatllm](https://oatllm.notion.site/oat-zero)
+4. [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+5. [32B-DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/24078459991?utm_medium=social&utm_psn=1875270693987426305&utm_source=ZHShareTargetIDMore)
+
