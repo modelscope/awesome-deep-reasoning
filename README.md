@@ -115,11 +115,16 @@ Others:
 - Logic-RL: https://github.com/Unakar/Logic-RL
 - Align-Anything: https://github.com/PKU-Alignment/align-anything
   - Training All-modality Model with Feedback
+- R-Chain: A lightweight toolkit for distilling reasoning models
+  - https://github.com/modelscope/r-chain
+- Math Verify: A robust mathematical expression evaluation system designed for assessing Large Language Model outputs in mathematical tasks. 
+  - https://github.com/huggingface/Math-Verify
 
 ## Datasets
 
 * OpenR1-Math-220k [ModelScope](https://modelscope.cn/datasets/open-r1/OpenR1-Math-220k) | [HuggingFace](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
 * OpenR1-Math-Raw [ModelScope](https://modelscope.cn/datasets/open-r1/OpenR1-Math-Raw) | [HuggingFace](https://huggingface.co/datasets/open-r1/OpenR1-Math-Raw)
+* [MathR](https://modelscope.cn/datasets/modelscope/MathR/summary) - A dataset distilled from DeepSeek-R1 for NuminaMath hard-level problems.
 * Dolphin-R1 ([HuggingFace](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1) | [ModelScope](https://modelscope.cn/datasets/AI-ModelScope/dolphin-r1)) - 800k samples dataset to train DeepSeek-R1 Distill models.
 * R1-Distill-SFT ([HuggingFace](https://huggingface.co/datasets/ServiceNow-AI/R1-Distill-SFT) | [ModelScope](https://modelscope.cn/datasets/ServiceNow-AI/R1-Distill-SFT))
 * [NuminaMath-TIR](https://www.modelscope.cn/datasets/AI-MO/NuminaMath-TIR) - Tool-integrated reasoning (TIR) plays a crucial role in this competition.  
