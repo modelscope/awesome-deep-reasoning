@@ -118,6 +118,8 @@ Others:
 
 ## Datasets
 
+* OpenR1-Math-220k [ModelScope](https://modelscope.cn/datasets/open-r1/OpenR1-Math-220k) | [HuggingFace](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
+* OpenR1-Math-Raw [ModelScope](https://modelscope.cn/datasets/open-r1/OpenR1-Math-Raw) | [HuggingFace](https://huggingface.co/datasets/open-r1/OpenR1-Math-Raw)
 * Dolphin-R1 ([HuggingFace](https://huggingface.co/datasets/cognitivecomputations/dolphin-r1) | [ModelScope](https://modelscope.cn/datasets/AI-ModelScope/dolphin-r1)) - 800k samples dataset to train DeepSeek-R1 Distill models.
 * R1-Distill-SFT ([HuggingFace](https://huggingface.co/datasets/ServiceNow-AI/R1-Distill-SFT) | [ModelScope](https://modelscope.cn/datasets/ServiceNow-AI/R1-Distill-SFT))
 * [NuminaMath-TIR](https://www.modelscope.cn/datasets/AI-MO/NuminaMath-TIR) - Tool-integrated reasoning (TIR) plays a crucial role in this competition.  
@@ -128,6 +130,8 @@ Others:
 * [Clevr_CoGenT_TrainA_R1](https://huggingface.co/datasets/MMInstruction/Clevr_CoGenT_TrainA_R1) - A multi-modal dataset for training MM R1 model.
 * [clevr_cogen_a_train](https://huggingface.co/datasets/leonardPKU/clevr_cogen_a_train) - A R1-distilled visual reasoning dataset.
 * [S1k](https://huggingface.co/datasets/simplescaling/s1K) - A dataset for training S1 model.
+* 中文基于满血DeepSeek-R1蒸馏数据集-110k [ModelScope](https://modelscope.cn/datasets/liucong/Chinese-DeepSeek-R1-Distill-data-110k) | [HuggingFace](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
+
 
 
 ## Evaluation
