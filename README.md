@@ -122,6 +122,7 @@ Others:
 - Math Verify: A robust mathematical expression evaluation system designed for assessing Large Language Model outputs in mathematical tasks. 
   - https://github.com/huggingface/Math-Verify
 
+
 ## Datasets
 
 * OpenR1-Math-220k [ModelScope](https://modelscope.cn/datasets/open-r1/OpenR1-Math-220k) | [HuggingFace](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k)
@@ -163,4 +164,5 @@ Others:
 3. [oatllm](https://oatllm.notion.site/oat-zero)
 4. [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 5. [32B-DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/24078459991?utm_medium=social&utm_psn=1875270693987426305&utm_source=ZHShareTargetIDMore)
-
+6. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
+7. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
