@@ -141,6 +141,7 @@ Others:
 
 ## Evaluation
 
+* [Best practice for evaluating R1/o1-like reasoning models](https://evalscope.readthedocs.io/zh-cn/latest/best_practice/deepseek_r1_distill.html)
 * [MATH-500](https://www.modelscope.cn/datasets/AI-ModelScope/MATH-500) - A subset of 500 problems from the MATH benchmark that OpenAI created in their Let's Verify Step by Step paper
 * [AIME-2024](https://modelscope.cn/datasets/AI-ModelScope/AIME_2024) - This dataset contains problems from the American Invitational Mathematics Examination (AIME) 2024. 
 * [AIME-VALIDATION](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-aime) - All 90 problems come from AIME 22, AIME 23, and AIME 24
