@@ -112,8 +112,6 @@ Others:
   - Hugging Face official training framework which supports open-source GRPO and other RL algorithms.
 - OpenRLHF: https://github.com/OpenRLHF/OpenRLHF
   - An RL repo which supports RLs(supports REINFORCE++)
-- R1-V: https://github.com/Deep-Agent/R1-V
-  - Multi-modal R1
 - Logic-RL: https://github.com/Unakar/Logic-RL
 - Align-Anything: https://github.com/PKU-Alignment/align-anything
   - Training All-modality Model with Feedback
@@ -164,6 +162,8 @@ Others:
 3. [oatllm](https://oatllm.notion.site/oat-zero)
 4. [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 5. [32B-DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/24078459991?utm_medium=social&utm_psn=1875270693987426305&utm_source=ZHShareTargetIDMore)
-6. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
-7. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
-8. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) - A stable and generalizable R1-style Large Vision-Language Model
+6. [R1-V](https://github.com/Deep-Agent/R1-V) - Multi-modal R1
+7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
+8. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
+9. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) - A stable and generalizable R1-style Large Vision-Language Model
+10. 
