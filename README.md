@@ -165,5 +165,4 @@ Others:
 6. [R1-V](https://github.com/Deep-Agent/R1-V) - Multi-modal R1
 7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
 8. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
-9. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) - A stable and generalizable R1-style Large Vision-Language Model
-10. 
+9. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | [DEMO](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) - A stable and generalizable R1-style Large Vision-Language Model
