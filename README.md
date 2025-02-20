@@ -62,7 +62,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://www.arxiv.org/pdf/2502.08235)
 * [OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542)
 * [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
-* [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) - (DeepSeek) A natively trainable Sparse Attention mechanism that integrates algorithmic innovations with hardware-aligned optimizations to achieve efficient long-context modeling.
+* [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) - (DeepSeek) NSA: A natively trainable Sparse Attention mechanism that integrates algorithmic innovations with hardware-aligned optimizations to achieve efficient long-context modeling.
 
 
 
