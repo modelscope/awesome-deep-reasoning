@@ -121,6 +121,9 @@ Others:
   - https://github.com/modelscope/r-chain
 - Math Verify: A robust mathematical expression evaluation system designed for assessing Large Language Model outputs in mathematical tasks. 
   - https://github.com/huggingface/Math-Verify
+- EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
+  - https://github.com/hiyouga/EasyR1
+
 
 
 ## Datasets
