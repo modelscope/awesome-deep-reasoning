@@ -100,6 +100,8 @@ Others:
 
 ## Infra
 
+- Flash MLA [DeepSeek]: https://github.com/deepseek-ai/FlashMLA
+  - FlashMLA is an efficient MLA decoding kernel for Hopper GPUs, optimized for variable-length sequences serving.
 - Open R1 by Hugging Face: https://github.com/huggingface/open-r1
   - This repo is the official repo of Hugging Face to reproduce the training infra of DeepSeek-R1
 - TinyZero: https://github.com/Jiayi-Pan/TinyZero
