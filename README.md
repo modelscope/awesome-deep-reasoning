@@ -188,3 +188,4 @@ Others:
 9. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | [DEMO](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) - A stable and generalizable R1-style Large Vision-Language Model
 10. [X-R1](https://github.com/dhcode-cpp/X-R1)
 11. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+12. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
