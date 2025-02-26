@@ -1,5 +1,5 @@
 # Awesome-deep-reasoning
-Collect the awesome works evolved around reasoning models like O1/R1! You can also find the collection [here](https://www.modelscope.cn/collections/R1-gongzuoheji-3cfe79822e894a).
+Collect the awesome works evolved around reasoning models like O1/R1! You can also find the collection [ModelScope-r1-collection](https://www.modelscope.cn/collections/R1-gongzuoheji-3cfe79822e894a) | [HuggingFace-r1-collection](https://huggingface.co/spaces/modelscope/awesome-o1-r1)
 
 
 ## Table of Contents
