@@ -13,12 +13,12 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 - [Others](#others)
 
 ## News
-
-* OpenAI publishes a [deep-research](https://openai.com/index/introducing-deep-research/) capability.
-* OpenAI has launched the latest o3 model: [o3-mini & o3-mini-high](https://openai.com/index/openai-o3-mini/), which specifically support science, math and coding. These two models are available in ChatGPT App, Poe, etc.
-* NVIDIA-NIM has supported [the DeepSeek-R1 model](https://blogs.nvidia.com/blog/deepseek-r1-nim-microservice/).
-* Qwen has launched a powerful multi-modal MoE model: Qwen2.5-Max, this model is available in the [Bailian](https://bailian.console.aliyun.com/) platform.
-* CodeGPT: [VSCode co-pilot](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) now supports R1.
+- 🔥 **[2025.02.26]** DeepSeek has released the [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean and efficient FP8 GEMM kernels with fine-grained scaling
+- OpenAI publishes a [deep-research](https://openai.com/index/introducing-deep-research/) capability.
+- OpenAI has launched the latest o3 model: [o3-mini & o3-mini-high](https://openai.com/index/openai-o3-mini/), which specifically support science, math and coding. These two models are available in ChatGPT App, Poe, etc.
+- NVIDIA-NIM has supported [the DeepSeek-R1 model](https://blogs.nvidia.com/blog/deepseek-r1-nim-microservice/).
+- Qwen has launched a powerful multi-modal MoE model: Qwen2.5-Max, this model is available in the [Bailian](https://bailian.console.aliyun.com/) platform.
+- CodeGPT: [VSCode co-pilot](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) now supports R1.
 
 ## Highlights
 
@@ -36,34 +36,47 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## Papers
 
-* [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
+### 2025.02
 * [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
-* [Qwen QwQ Technical blog](https://qwenlm.github.io/blog/qwq-32b-preview/) - QwQ: Reflect Deeply on the Boundaries of the Unknown
-* [OpenAI-o1 Announcement](https://openai.com/index/learning-to-reason-with-llms/) - Learning to Reason with Large Language Models
+* [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
+* [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
+* [Competitive Programming with Large Reasoning Models](https://arxiv.org/html/2502.06807v1) - OpenAI: Competitive Programming with Large Reasoning Models
+* [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://www.arxiv.org/pdf/2502.08235)
+* [OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542)
+* [Think Less, Achieve More: Cut Reasoning Costs by 50% Without Sacrificing Accuracy](https://novasky-ai.github.io/posts/reduce-overthinking/) - Sky-T1-32B-Flash, reasoning language model that significantly reduces overthinking
+* [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) - (DeepSeek) NSA: A natively trainable Sparse Attention mechanism that integrates algorithmic innovations with hardware-aligned optimizations to achieve efficient long-context modeling.
+* [MM-RLHF](https://arxiv.org/pdf/2502.10391) - MM-RLHF:The Next Step Forward in Multimodal LLM Alignment
+
+
+### 2025.01
+* [Imagine while Reasoning in Space:
+Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) - Multimodal Visualization-of-Thought (MVoT)
+* [DeepSeek-R1-Tech-Report](https://arxiv.org/pdf/2501.12948)
 * [Qwen-math-PRM-Tech-Report(MCTS/PRM)](https://arxiv.org/pdf/2501.07301)
 * [Qwen2.5 Tech-Report](https://arxiv.org/pdf/2412.15115)
-* [DeepSeek Math Tech-Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 * [Kimi K1.5 Tech-Report](https://arxiv.org/pdf/2501.12599)
 * [Qwen-Math-PRM](https://arxiv.org/pdf/2501.07301) - The Lessons of Developing Process Reward Models in Mathematical Reasoning
+* [LlamaV-o1](https://arxiv.org/abs/2501.06186) - Rethinking Step-by-step Visual Reasoning in LLMs
+* [rStar-Math](https://arxiv.org/abs/2501.04519) - Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
+* [LLMS CAN PLAN ONLY IF WE TELL THEM](https://arxiv.org/pdf/2501.13545) - A new CoT method: AoT+
+* [SFT Memorizes, RL Generalizes](https://arxiv.org/pdf/2501.17161) - A research from DeepMind shows the effect of SFT and RL.
+
+
+### 2024
+* [Qwen QwQ Technical blog](https://qwenlm.github.io/blog/qwq-32b-preview/) - QwQ: Reflect Deeply on the Boundaries of the Unknown
+* [OpenAI-o1 Announcement](https://openai.com/index/learning-to-reason-with-llms/) - Learning to Reason with Large Language Models
+* [DeepSeek Math Tech-Report(GRPO)](https://arxiv.org/pdf/2402.03300)
 * [Large Language Models for Mathematical Reasoning: Progresses and Challenges](https://arxiv.org/abs/2402.00157) (EACL 2024)
 * [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) (ICLR 2024)
 * [AT WHICH TRAINING STAGE DOES CODE DATA HELP LLM REASONING?](https://arxiv.org/pdf/2309.16298) (ICLR 2024)
 * [DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought](https://arxiv.org/abs/2412.17498) [ [code](https://github.com/krystalan/DRT-o1) ]
-* [LlamaV-o1](https://arxiv.org/abs/2501.06186) - Rethinking Step-by-step Visual Reasoning in LLMs
-* [rStar-Math](https://arxiv.org/abs/2501.04519) - Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
 * [MathScale](https://arxiv.org/abs/2403.02884) - Scaling Instruction Tuning for Mathematical Reasoning
-* [LLMS CAN PLAN ONLY IF WE TELL THEM](https://arxiv.org/pdf/2501.13545) - A new CoT method: AoT+
-* [SFT Memorizes, RL Generalizes](https://arxiv.org/pdf/2501.17161) - A research from DeepMind shows the effect of SFT and RL.
 * [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/pdf/2412.12140) - A paper from Fudan university indicates that LLM has surpassed the self-replicating red line.
-* [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
-* [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
-* [Competitive Programming with Large Reasoning Models](https://arxiv.org/html/2502.06807v1) - OpenAI: Competitive Programming with Large Reasoning Models
-* [Think Less, Achieve More: Cut Reasoning Costs by 50% Without Sacrificing Accuracy](https://novasky-ai.github.io/posts/reduce-overthinking/) - Sky-T1-32B-Flash, reasoning language model that significantly reduces overthinking
-* [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://www.arxiv.org/pdf/2502.08235)
-* [OverThink: Slowdown Attacks on Reasoning LLMs](https://arxiv.org/abs/2502.02542)
+
+
+
+## Blogs
 * [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
-* [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2502.11089) - (DeepSeek) NSA: A natively trainable Sparse Attention mechanism that integrates algorithmic innovations with hardware-aligned optimizations to achieve efficient long-context modeling.
-* [MM-RLHF](https://arxiv.org/pdf/2502.10391) - MM-RLHF:The Next Step Forward in Multimodal LLM Alignment
 
 
 
@@ -123,6 +136,7 @@ Others:
   - https://github.com/huggingface/Math-Verify
 - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
   - https://github.com/hiyouga/EasyR1
+- [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean and efficient FP8 GEMM kernels with fine-grained scaling
 
 
 
