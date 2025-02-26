@@ -10,7 +10,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 - [Infra](#infra)
 - [Datasets](#datasets)
 - [Evaluation](#evaluation)
-- [Others](#others)
+- [RelatedRepos](#relatedrepos)
 
 ## News
 - 🔥 **[2025.02.26]** DeepSeek has released the [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean and efficient FP8 GEMM kernels with fine-grained scaling
@@ -173,7 +173,7 @@ Others:
 * [Codeforces-Python-Submissions](https://modelscope.cn/datasets/AI-ModelScope/Codeforces-Python-Submissions) - A dataset of Python submissions from Codeforces.
 
 
-## Others
+## RelatedRepos
 
 ### Replicates of DeepSeek-R1 and DeepSeek-R1-Zero
 
@@ -189,3 +189,8 @@ Others:
 10. [X-R1](https://github.com/dhcode-cpp/X-R1)
 11. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 12. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
+
+### Advanced Reasoning for Coding
+
+1. [SWE-RL](https://github.com/facebookresearch/swe-rl) - Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution
+
