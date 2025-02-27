@@ -12,7 +12,11 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 - [Evaluation](#evaluation)
 - [RelatedRepos](#relatedrepos)
 
+
+
 ## News
+- 🔥 **[2025.02.27]** DeepSeek has released the [DualPipe](https://github.com/deepseek-ai/DualPipe) - DualPipe achieves full overlap of forward and backward computation-communication phases, also reducing pipeline bubbles.
+- 🔥 **[2025.02.27]** DeepSeek has released the [ProfileData](https://github.com/deepseek-ai/profile-data) -The communication-computation overlap profiling strategies and low-level implementation details based on PyTorch.
 - 🔥 **[2025.02.26]** DeepSeek has released the [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean and efficient FP8 GEMM kernels with fine-grained scaling
 - OpenAI publishes a [deep-research](https://openai.com/index/introducing-deep-research/) capability.
 - OpenAI has launched the latest o3 model: [o3-mini & o3-mini-high](https://openai.com/index/openai-o3-mini/), which specifically support science, math and coding. These two models are available in ChatGPT App, Poe, etc.
@@ -136,7 +140,9 @@ Others:
   - https://github.com/huggingface/Math-Verify
 - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
   - https://github.com/hiyouga/EasyR1
-- [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - Clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - [DeepSeek] Clean and efficient FP8 GEMM kernels with fine-grained scaling
+- [DualPipe](https://github.com/deepseek-ai/DualPipe) - [DeepSeek] DualPipe achieves full overlap of forward and backward computation-communication phases, also reducing pipeline bubbles.
+- [ProfileData](https://github.com/deepseek-ai/profile-data) - [DeepSeek] The communication-computation overlap profiling strategies and low-level implementation details based on PyTorch.
 
 
 
