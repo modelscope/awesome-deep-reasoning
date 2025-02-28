@@ -190,15 +190,22 @@ Others:
 3. [oatllm](https://oatllm.notion.site/oat-zero)
 4. [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 5. [32B-DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/24078459991?utm_medium=social&utm_psn=1875270693987426305&utm_source=ZHShareTargetIDMore)
-6. [R1-V](https://github.com/Deep-Agent/R1-V) - Multi-modal R1
-7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
-8. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
-9. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | [DEMO](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) - A stable and generalizable R1-style Large Vision-Language Model
-10. [X-R1](https://github.com/dhcode-cpp/X-R1)
-11. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
-12. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
+6. [X-R1](https://github.com/dhcode-cpp/X-R1)
+7. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+
+
 
 ### Advanced Reasoning for Coding
 
 1. [SWE-RL](https://github.com/facebookresearch/swe-rl) - Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution
+
+
+### Advanced Reasoning for Multi-Modal
+
+1. [R1-V](https://github.com/Deep-Agent/R1-V) - Multi-modal R1
+2. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A multimodal reasoning model based on OpenR1
+3. [R1-Multimodal-Journey](https://github.com/FanqingM/R1-Multimodal-Journey) - A journey to replicate multimodal reasoning model based on Open-R1-Multimodal
+4. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | [DEMO](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) - A stable and generalizable R1-style Large Vision-Language Model
+5. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
+6. [VL-Thinking](https://github.com/UCSC-VLAA/VL-Thinking) - An R1-Derived Visual Instruction Tuning Dataset for Thinkable LVLMs
 
