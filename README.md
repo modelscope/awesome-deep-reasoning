@@ -15,6 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
+- 🔥 **[2025.03.01]** DeepSeek has released the [smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - 🔥 **[2025.02.28]** DeepSeek has released the [3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - 🔥 **[2025.02.27]** DeepSeek has released the [DualPipe](https://github.com/deepseek-ai/DualPipe) - DualPipe achieves full overlap of forward and backward computation-communication phases, also reducing pipeline bubbles.
 - 🔥 **[2025.02.27]** DeepSeek has released the [ProfileData](https://github.com/deepseek-ai/profile-data) -The communication-computation overlap profiling strategies and low-level implementation details based on PyTorch.
@@ -145,6 +146,7 @@ Others:
 - [DualPipe](https://github.com/deepseek-ai/DualPipe) - [DeepSeek] DualPipe achieves full overlap of forward and backward computation-communication phases, also reducing pipeline bubbles.
 - [ProfileData](https://github.com/deepseek-ai/profile-data) - [DeepSeek] The communication-computation overlap profiling strategies and low-level implementation details based on PyTorch.
 - [3FS](https://github.com/deepseek-ai/3FS) - [DeepSeek] A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+- [smallpond](https://github.com/deepseek-ai/smallpond) - [DeepSeek] A lightweight data processing framework built on DuckDB and 3FS.
 
 
 
