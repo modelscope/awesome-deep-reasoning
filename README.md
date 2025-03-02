@@ -210,4 +210,4 @@ Others:
 4. [VLM-R1](https://github.com/om-ai-lab/VLM-R1) | [DEMO](https://huggingface.co/spaces/omlab/VLM-R1-Referral-Expression) - A stable and generalizable R1-style Large Vision-Language Model
 5. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
 6. [VL-Thinking](https://github.com/UCSC-VLAA/VL-Thinking) - An R1-Derived Visual Instruction Tuning Dataset for Thinkable LVLMs
-
+7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A fork to add multimodal model training to open-r1
