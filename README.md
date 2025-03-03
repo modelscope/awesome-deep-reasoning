@@ -211,3 +211,11 @@ Others:
 5. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
 6. [VL-Thinking](https://github.com/UCSC-VLAA/VL-Thinking) - An R1-Derived Visual Instruction Tuning Dataset for Thinkable LVLMs
 7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A fork to add multimodal model training to open-r1
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=modelscope/awesome-deep-reasoning&type=Date)](https://star-history.com/#modelscope/awesome-deep-reasoning&Date)
+
+
