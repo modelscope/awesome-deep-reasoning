@@ -15,6 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
+- 🔥 **[2025.03.04]** Add the [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
 - 🔥 **[2025.03.01]** DeepSeek has released the [smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - 🔥 **[2025.02.28]** DeepSeek has released the [3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - 🔥 **[2025.02.27]** DeepSeek has released the [DualPipe](https://github.com/deepseek-ai/DualPipe) - DualPipe achieves full overlap of forward and backward computation-communication phases, also reducing pipeline bubbles.
@@ -41,6 +42,10 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## Papers
+
+### 2025.03
+* [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
+
 
 ### 2025.02
 * [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
@@ -211,3 +216,4 @@ Others:
 5. [Video-R1](https://github.com/tulerfeng/Video-R1) - Towards Super Reasoning Ability in Video Understanding MLLMs
 6. [VL-Thinking](https://github.com/UCSC-VLAA/VL-Thinking) - An R1-Derived Visual Instruction Tuning Dataset for Thinkable LVLMs
 7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A fork to add multimodal model training to open-r1
+8. [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Visual Reinforcement Fine-Tuning
