@@ -200,6 +200,7 @@ Others:
 5. [32B-DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/24078459991?utm_medium=social&utm_psn=1875270693987426305&utm_source=ZHShareTargetIDMore)
 6. [X-R1](https://github.com/dhcode-cpp/X-R1)
 7. [Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+8. [Logic-RL](https://github.com/Unakar/Logic-RL) - Reproduce R1 Zero on Logic Puzzle
 
 
 
