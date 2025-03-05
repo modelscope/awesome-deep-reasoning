@@ -88,6 +88,7 @@ Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) - Multimo
 
 ## Blogs
 * [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
+* [1/30训练步骤复刻DeepSeek-R1-Zero](https://zhuanlan.zhihu.com/p/25616750613)
 
 
 
