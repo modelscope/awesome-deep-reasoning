@@ -172,6 +172,7 @@ Others:
 * [clevr_cogen_a_train](https://huggingface.co/datasets/leonardPKU/clevr_cogen_a_train) - A R1-distilled visual reasoning dataset.
 * [S1k](https://huggingface.co/datasets/simplescaling/s1K) - A dataset for training S1 model.
 * 中文基于满血DeepSeek-R1蒸馏数据集-110k [ModelScope](https://modelscope.cn/datasets/liucong/Chinese-DeepSeek-R1-Distill-data-110k) | [HuggingFace](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
+* LLaVA多模态Reasoning数据集LLaVA-R1-100k [ModelScope](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k)
 
 
 
