@@ -15,6 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
+- 🔥 **[2025.03.12]** Add Multi-modal Reasoning datasets: [LLaVA-R1-100k](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k) and  [MMMU-Reasoning-R1-Distill-Validation](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation)
 - 🔥 **[2025.03.04]** Add the [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
 - 🔥 **[2025.03.01]** DeepSeek has released the [smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
 - 🔥 **[2025.02.28]** DeepSeek has released the [3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
@@ -173,6 +174,7 @@ Others:
 * [S1k](https://huggingface.co/datasets/simplescaling/s1K) - A dataset for training S1 model.
 * 中文基于满血DeepSeek-R1蒸馏数据集-110k [ModelScope](https://modelscope.cn/datasets/liucong/Chinese-DeepSeek-R1-Distill-data-110k) | [HuggingFace](https://huggingface.co/datasets/Congliu/Chinese-DeepSeek-R1-Distill-data-110k)
 * LLaVA多模态Reasoning数据集LLaVA-R1-100k [ModelScope](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k)
+* MMMU-满血版R1蒸馏多模态Reasoning验证集 [ModelScope](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation)
 
 
 
