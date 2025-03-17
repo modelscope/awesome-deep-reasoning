@@ -46,6 +46,8 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ### 2025.03
 * [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
+* [LLaVE](https://arxiv.org/pdf/2503.04812) - LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning
+* [VisualPRM](https://arxiv.org/pdf/2503.10291) - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning
 
 
 ### 2025.02
@@ -190,6 +192,7 @@ Others:
 * [aimo-validation-amc](https://www.modelscope.cn/datasets/AI-MO/aimo-validation-amc) - All 83 samples come from AMC12 2022, AMC12 2023
 * [GPQA-Diamond](https://modelscope.cn/datasets/AI-ModelScope/gpqa_diamond/summary) - Diamond subset from GPQA benchmark.
 * [Codeforces-Python-Submissions](https://modelscope.cn/datasets/AI-ModelScope/Codeforces-Python-Submissions) - A dataset of Python submissions from Codeforces.
+
 
 
 ## RelatedRepos
