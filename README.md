@@ -15,6 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
+- 🔥 **[2025.03.17]** Add START: Self-taught Reasoner with Tools from Qwen Team - [START](http://arxiv.org/abs/2503.04625)
 - 🔥 **[2025.03.12]** Add Multi-modal Reasoning datasets: [LLaVA-R1-100k](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k) and  [MMMU-Reasoning-R1-Distill-Validation](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation)
 - 🔥 **[2025.03.04]** Add the [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
 - 🔥 **[2025.03.01]** DeepSeek has released the [smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS.
@@ -48,6 +49,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
 * [LLaVE](https://arxiv.org/pdf/2503.04812) - LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning
 * [VisualPRM](https://arxiv.org/pdf/2503.10291) - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning
+* [START](http://arxiv.org/abs/2503.04625) - START: Self-taught Reasoner with Tools
 
 
 ### 2025.02
