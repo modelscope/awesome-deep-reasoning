@@ -15,6 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
+- 🔥 **[2025.03.18]** Add [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - Pioneering Multimodal Reasoning with CoT
 - 🔥 **[2025.03.17]** Add START: Self-taught Reasoner with Tools from Qwen Team - [START](http://arxiv.org/abs/2503.04625)
 - 🔥 **[2025.03.12]** Add Multi-modal Reasoning datasets: [LLaVA-R1-100k](https://www.modelscope.cn/datasets/modelscope/LLaVA-R1-100k) and  [MMMU-Reasoning-R1-Distill-Validation](https://www.modelscope.cn/datasets/modelscope/MMMU-Reasoning-Distill-Validation)
 - 🔥 **[2025.03.04]** Add the [Visual-RFT](https://arxiv.org/abs/2503.01785) - Visual Reinforcement Fine-Tuning
