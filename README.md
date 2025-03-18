@@ -228,6 +228,7 @@ Others:
 6. [VL-Thinking](https://github.com/UCSC-VLAA/VL-Thinking) - An R1-Derived Visual Instruction Tuning Dataset for Thinkable LVLMs
 7. [Open-R1-Multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal) - A fork to add multimodal model training to open-r1
 8. [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Visual Reinforcement Fine-Tuning
+9. [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
 
 
 
