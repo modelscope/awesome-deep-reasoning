@@ -54,6 +54,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ### 2025.02
+* [Visual Perception Token](https://arxiv.org/abs/2502.17425) - Enhancing visual reasoning by enabling the LLM to control its perception process.
 * [DeepSeek-V3 Tech-Report](https://arxiv.org/pdf/2412.19437)
 * [LIMO](https://arxiv.org/pdf/2502.03387) - Less is More for Reasoning: Use 817 samples to train a model that surpasses the o1 level models.
 * [Underthinking of Reasoning models](https://arxiv.org/abs/2501.18585) - Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs
