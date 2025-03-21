@@ -53,6 +53,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [VisualPRM](https://arxiv.org/pdf/2503.10291) - VisualPRM: An Effective Process Reward Model for Multimodal Reasoning
 * [START](http://arxiv.org/abs/2503.04625) - START: Self-taught Reasoner with Tools
 * [DAPO](https://arxiv.org/pdf/2503.14476) - DAPO: An Open-Source LLM Reinforcement Learning System at Scale
+* [What’s Behind PPO’s Collapse in Long-CoT? Value Optimization Holds the Secret](https://arxiv.org/pdf/2503.01491v1)
 
 
 ### 2025.02
