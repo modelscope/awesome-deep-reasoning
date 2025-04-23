@@ -15,7 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
-- 🔥 **[2025.04.23]** Add section "Advanced Reasoning for Agent", including `Search-R1`, `Re-Search`, ...
+- 🔥 **[2025.04.23]** Add section "Advanced Reasoning for Agent", including `Search-R1`, `Re-Search`, `R1-Searcher`, ...
 - 🔥 **[2025.03.21]** Add [DAPO](https://github.com/BytedTsinghua-SIA/DAPO) - DAPO: An Open-Source LLM Reinforcement Learning System at Scale
 - 🔥 **[2025.03.18]** Add [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - Pioneering Multimodal Reasoning with CoT
 - 🔥 **[2025.03.17]** Add START: Self-taught Reasoner with Tools from Qwen Team - [START](http://arxiv.org/abs/2503.04625)
@@ -51,6 +51,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 ### 2025.04
 * [ReSearch](https://arxiv.org/abs/2503.19470) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
 * [Search-R1](https://arxiv.org/abs/2503.09516) - Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning
+* [R1-Searcher](https://arxiv.org/pdf/2503.05592) - R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning
 
 
 ### 2025.03
@@ -246,7 +247,8 @@ Others:
 
 ### Advanced Reasoning for Agent
 1. [Search-R1](https://github.com/PeterGriffinJin/Search-R1) - An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
-2. [ReSearch](https://arxiv.org/abs/2503.19470) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
+2. [ReSearch](https://github.com/Agent-RL/ReSearch) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
+3. [R1-Searcher](https://arxiv.org/pdf/2503.05592) - R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning
 
 
 ## Star History
