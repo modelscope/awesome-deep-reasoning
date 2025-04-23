@@ -235,6 +235,7 @@ Others:
 8. [Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Visual Reinforcement Fine-Tuning
 9. [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
 10. [R1-Omni](https://github.com/HumanMLLM/R1-Omni) - Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning
+11. [R1-OneVision](https://github.com/Fancy-MLLM/R1-Onevision) - A visual language model capable of deep CoT reasoning
 
 
 
