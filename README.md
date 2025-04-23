@@ -15,7 +15,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 
 ## News
-- 🔥 **[2025.04.23]** Add section "Advanced Reasoning for Agent", e.g. `Search-R1`, `Re-Search`, ...
+- 🔥 **[2025.04.23]** Add section "Advanced Reasoning for Agent", including `Search-R1`, `Re-Search`, ...
 - 🔥 **[2025.03.21]** Add [DAPO](https://github.com/BytedTsinghua-SIA/DAPO) - DAPO: An Open-Source LLM Reinforcement Learning System at Scale
 - 🔥 **[2025.03.18]** Add [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V) - Pioneering Multimodal Reasoning with CoT
 - 🔥 **[2025.03.17]** Add START: Self-taught Reasoner with Tools from Qwen Team - [START](http://arxiv.org/abs/2503.04625)
