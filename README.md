@@ -62,7 +62,7 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 * [DAPO](https://arxiv.org/pdf/2503.14476) - DAPO: An Open-Source LLM Reinforcement Learning System at Scale
 * [What’s Behind PPO’s Collapse in Long-CoT? Value Optimization Holds the Secret](https://arxiv.org/pdf/2503.01491v1)
 * [OThink-MR1](https://arxiv.org/abs/2503.16081) - Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning
-
+* [Embodied Reasoner](https://arxiv.org/abs/2503.21696) - Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks
 
 ### 2025.02
 * [Visual Perception Token](https://arxiv.org/abs/2502.17425) - Enhancing visual reasoning by enabling the LLM to control its perception process.
