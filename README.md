@@ -48,6 +48,9 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## Papers
 
+### 2025.08
+* [VITAL](https://arxiv.org/abs/2508.04416) - Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning
+
 ### 2025.04
 * [ReSearch](https://arxiv.org/abs/2503.19470) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
 * [Search-R1](https://arxiv.org/abs/2503.09516) - Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning
@@ -243,6 +246,7 @@ Others:
 9. [Skywork-R1V](https://github.com/SkyworkAI/Skywork-R1V)
 10. [R1-Omni](https://github.com/HumanMLLM/R1-Omni) - Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning
 11. [R1-OneVision](https://github.com/Fancy-MLLM/R1-Onevision) - A visual language model capable of deep CoT reasoning
+12. [VITAL](https://github.com/zhang9302002/ThinkingWithVideos) - Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning
 
 
 ### Advanced Reasoning for Agent
