@@ -48,6 +48,9 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## Papers
 
+### 2026.01
+* [OverSearchQA](https://arxiv.org/abs/2601.05503) - Over-Searching in Search-Augmented Large Language Models (EACL 2026)
+
 ### 2025.04
 * [ReSearch](https://arxiv.org/abs/2503.19470) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
 * [Search-R1](https://arxiv.org/abs/2503.09516) - Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning
