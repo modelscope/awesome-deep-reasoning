@@ -48,6 +48,10 @@ Collect the awesome works evolved around reasoning models like O1/R1! You can al
 
 ## Papers
 
+### 2025.09
+* [TagPR](https://arxiv.org/abs/2509.23140) - TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models (EMNLP 2026 Main)
+
+
 ### 2025.04
 * [ReSearch](https://arxiv.org/abs/2503.19470) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
 * [Search-R1](https://arxiv.org/abs/2503.09516) - Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning
