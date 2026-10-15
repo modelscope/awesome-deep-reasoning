@@ -244,6 +244,7 @@ Others:
 10. [R1-Omni](https://github.com/HumanMLLM/R1-Omni) - Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning
 11. [R1-OneVision](https://github.com/Fancy-MLLM/R1-Onevision) - A visual language model capable of deep CoT reasoning
 
+12. [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) ([Code](https://github.com/MCG-NJU/Video-o3)): native interleaved clue seeking for long-video multi-hop reasoning, with SFT and trajectory-guided RL.
 
 ### Advanced Reasoning for Agent
 1. [Search-R1](https://github.com/PeterGriffinJin/Search-R1) - An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
