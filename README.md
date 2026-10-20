@@ -198,6 +198,7 @@ Others:
 ## Evaluation
 
 * [Best practice for evaluating R1/o1-like reasoning models](https://evalscope.readthedocs.io/zh-cn/latest/best_practice/deepseek_r1_distill.html)
+* [Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation](https://arxiv.org/abs/2510.04265) - Bayes@N estimates reasoning-model performance and sampling uncertainty from repeated binary or graded outcomes (ICLR 2026). [[Code](https://github.com/mohsenhariri/scorio)]
 * [MATH-500](https://www.modelscope.cn/datasets/AI-ModelScope/MATH-500) - A subset of 500 problems from the MATH benchmark that OpenAI created in their Let's Verify Step by Step paper
 * [AIME-2024](https://modelscope.cn/datasets/AI-ModelScope/AIME_2024) - This dataset contains problems from the American Invitational Mathematics Examination (AIME) 2024. 
 * AIME-2025: [ModelScope](https://modelscope.cn/datasets/TIGER-Lab/AIME25) | [HuggingFace](https://huggingface.co/datasets/opencompass/AIME2025) - American Invitational Mathematics Examination (AIME) 2025-I February 6th, 2025.
