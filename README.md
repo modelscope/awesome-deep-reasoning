@@ -250,6 +250,7 @@ Others:
 2. [ReSearch](https://github.com/Agent-RL/ReSearch) - ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning
 3. [R1-Searcher](https://arxiv.org/pdf/2503.05592) - R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning
 4. [UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
+5. [ToolMaster](https://github.com/NEUIR/ToolMaster) - Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction
 
 
 ## Star History
